@@ -117,4 +117,8 @@ img{
 
 .outgoing-chats-msg p{
     background: #007bff none repeat scroll 0 0;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 14px;
 }
+
